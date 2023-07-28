@@ -18,7 +18,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/pratik-rathod-973827236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pratik-rathod-973827236" height="30" width="40" /></a>
 <a href="https://instagram.com/https://instagram.com/p_r_a_t_u25?igshid=zguzmzm3nwjioq==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/p_r_a_t_u25?igshid=zguzmzm3nwjioq==" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://youtube.com/@pratikprogramming7200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@pratikprogramming7200" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/pratik programming" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pratik programming" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/pratikrathod0161" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pratikrathod0161" height="30" width="40" /></a>
 </p>
 
@@ -28,3 +28,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratikprogramming&show_icons=true&locale=en&layout=compact" alt="pratikprogramming" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratikprogramming&show_icons=true&locale=en" alt="pratikprogramming" /></p>
+
+
+
+
